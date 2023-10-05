@@ -9,12 +9,16 @@ df = pd.read_csv(filename, sep='\t')
 
 # Filter the data
 filtered_df = df[(df['type'] == 'Literary work') & (df['MiMoTextBase_ID'].notna())]
+print(f'number of mentioned works: {len(filtered_df)}')
 
 # Get unique entities from the filtered data
 unique_entities = filtered_df['text'].unique()
+print(f'number of scholarly works: {len(unique_entities)}')
 
 # Get unique entities and create an empty co-occurrence matrix
 entities = filtered_df['Identifier'].unique()
+print(f'number of literary works: {len(entities)}')
+
 co_occurrence_matrix = np.zeros((len(entities), len(entities)))
 
 # Iterate over the rows to fill the co-occurrence matrix
@@ -34,11 +38,20 @@ for _, row in filtered_df.iterrows():
 # Print the co-occurrence matrix
 print(co_occurrence_matrix)
 
+with open("matrix.tsv", "w") as f:
+    for row in co_occurrence_matrix:
+        f.write("\t".join(map(str, row)) + "\n")
+
 # Convert the co-occurrence matrix into a network graph
 G = nx.from_numpy_array(co_occurrence_matrix)
 
 # Get the entity labels from the original dataframe
 entity_labels = {idx: entity for idx, entity in enumerate(entities)}
+#write entity_labels to file
+with open("entity_labels.tsv", "w") as f:
+    for key, value in entity_labels.items():
+        f.write(str(key) + "\t" + value + "\n")
+        
 
 # Set the labels of the nodes in the network graph
 nx.set_node_attributes(G, entity_labels, 'label')
