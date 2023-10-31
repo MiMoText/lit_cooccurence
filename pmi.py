@@ -3,7 +3,6 @@ import math
 import numpy as np
 import plotly.graph_objects as go
 
-
 df = pd.read_csv("work_title.tsv", sep="\t")
 df = df[df.type == "Literary work"]
 #remove the rows where identifier is empty
@@ -71,13 +70,14 @@ fig = go.Figure(data=go.Heatmap(
                     colorscale=custom_colorscale,
                     zmin=-1,  # Assuming the NPMI values range from -1 to 1
                     zmax=1,
-                    colorbar=dict(tickvals=[0], ticktext=['No Cooccurrence'])))
+                    colorbar=dict(ticktext=['No Cooccurrence'])
+                    ))
 
 # Update layout to make it more readable
 fig.update_layout(
     title=f'NPMI Heatmap of Works (cooccurrence in {umfang})',
-    xaxis_nticks=36,
-    yaxis_nticks=36,
+    xaxis_nticks=100,
+    yaxis_nticks=100,
     xaxis_title="Work 1",
     yaxis_title="Work 2",
     margin=dict(l=150, r=5, t=45, b=120)
