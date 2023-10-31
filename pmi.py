@@ -80,7 +80,7 @@ fig.update_layout(
     yaxis_nticks=36,
     xaxis_title="Work 1",
     yaxis_title="Work 2",
-    margin=dict(l=150, r=5, t=5, b=150)
+    margin=dict(l=150, r=5, t=45, b=120)
 )
 
 # Export to HTML
