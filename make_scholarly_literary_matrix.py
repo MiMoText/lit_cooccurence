@@ -13,4 +13,6 @@ pivot_table = grouped_df.pivot_table(index=['MiMoTextBase_ID', 'Identifier'],
                                      values='frequency', 
                                      fill_value=0)
 
+pivot_table = pivot_table.astype(int)
+
 pivot_table.to_csv('scholarly_literary_matrix.csv', sep='\t')
