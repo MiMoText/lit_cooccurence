@@ -1,62 +1,62 @@
-MiMoTextBase_ID	Identifier	Baasner_1988a	Bauer-Funke_1998b	Bauer-Funke_2008a	Bauer-Funke_2008b	Brockmeier_1981a	Brockmeier_2008a	Dirscherl_1978a	Galle_2016a	Geißler_1979a	Geißler_Starke_1979a	Haas_1902a	Haas_1902b	Hülk_2006a	Kestner_2013a	Klinkert_2010a	Loos_1959a	Mahrenholtz_1889a	Mahrenholtz_1890a	Rieger_2006a	Sasse_2018a	Schlötke-Schröer_1956a	Schlötke-Schröer_1957a	Schlüter_2014a	Schlüter_2014b	Schlüter_2014c	Vosskamp_1971a
-Q1011	Micromegas_Voltaire	0	1	0	0	3	0	1	0	6	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0
-Q1012	Naufrage_Morelly	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Q1015	Nuit_Crebillon	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1016	Fanni_Riccoboni	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1022	Candide_Voltaire	0	1	1	0	5	2	2	0	11	0	0	0	0	0	4	0	0	0	1	0	0	0	5	1	1	0
-Q1027	Emile_Rousseau	0	2	2	1	0	0	0	12	0	0	0	0	3	0	6	0	0	0	0	0	0	0	0	5	0	0
-Q1033	Belisaire_Marmontel	0	2	1	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0
-Q1035	Ecus_Voltaire	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1039	L'An_Mercier	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0
-Q1040	Diable_Cazotte	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Q1048	Incas_Marmontel	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1053	Liaisons_Laclos	2	4	1	0	2	1	0	0	0	2	0	0	3	0	0	0	0	0	1	0	0	0	2	0	0	0
-Q1054	Adele_Genlis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1057	Galatee_Florian	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Q1065	Pervertie_Retif	0	1	0	0	0	0	0	0	0	2	0	11	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-Q1066	Caliste_Charriere	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1069	Rideau_Mirabeau	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Q1077	Amours_Couvray	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0
-Q1078	Justine_Sade	0	2	2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	4	1	0	0	0	0	1	0
-Q1079	Chaumiere_Bernardin	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1082	Adele_Souza	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1083	Voyage_Maistre	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
-Q1084	Chevaliers_Genlis	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1085	Aline_Sade	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
-Q1086	Boudoir_Sade	3	1	0	0	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0
-Q1088	Fataliste_Diderot	3	1	1	0	0	0	3	0	0	7	1	0	0	0	19	0	0	0	0	0	0	0	2	2	0	0
-Q1089	Religieuse_Diderot	0	1	0	0	0	0	19	0	0	8	25	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1
-Q1090	L'Emigre_Meilhan	0	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
-Q1091	Supplement_Diderot	0	5	1	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0
-Q1093	L'Anti-Justine_Retif	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-Q1094	Pauliska_Saint-Cyr	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1099	Claire_Cottin	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1137	Crimes_Sade	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Q1368	Cacouacs_Moreau	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-Q1413	Monde_Prevost	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1426	Moraux_Marmontel	0	4	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Q1429	Julie_Rousseau	0	2	2	1	7	0	2	3	0	19	0	2	28	20	3	0	0	1	3	0	4	3	3	4	1	1
-Q1441	Floricourt_Dorat	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1615	Vertueuse_Retif	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1622	L'Ingenu_Voltaire	0	0	0	0	0	0	0	0	3	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
-Q1663	Lucile_Retif	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0
-Q1668	Princesse_Voltaire	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
-Q1702	Moraux_Mercier	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1706	Fanchette_Retif	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1709	Saisons_Saint-Lambert	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1835	Menage_Retif	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1892	Jenni_Voltaire	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q1918	Perverti_Retif	0	3	0	0	0	0	0	0	0	4	0	13	0	0	0	0	0	0	3	0	0	0	1	0	0	0
-Q1990	Femme_Marmontel	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q2000	Vie_Retif	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q2024	Contemporaines_Retif	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q2223	Françaises_Retif	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q2240	Caliste_Charriere	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q2263	Parisiennes_Retif	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q2328	Fils_Diderot	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	5	0	0
-Q2440	Emilie_Couvray	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-Q2458	Prince_Gouges	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q2495	Nuits_Retif	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Q2567	Victor_Ducray-Duminil	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Q2592	Juliette_Sade	0	1	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
-Q2744	Coelina_Pixerecourt	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MiMoTextBase_ID	Identifier	Baasner_1988a	Bauer-Funke_1998b	Bauer-Funke_2008a	Bauer-Funke_2008b	Brockmeier_1981a	Brockmeier_2008a	Dirscherl_1978a	Galle_2016a	Geißler_1979a	Geißler_Starke_1979a	Haas_1902a	Haas_1902b	Hülk_2006a	Kestner_2013a	Klinkert_2010a	Loos_1959a	Mahrenholtz_1889a	Mahrenholtz_1890a	Rieger_2006a	Sasse_2018a	Schlötke-Schröer_1957a	Schlüter_2014a	Schlüter_2014b	Schlüter_2014c	Vosskamp_1971a
+Q1011	Micromegas_Voltaire	0	1	0	0	3	0	1	0	6	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0
+Q1012	Naufrage_Morelly	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Q1015	Nuit_Crebillon	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1016	Fanni_Riccoboni	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1022	Candide_Voltaire	0	1	1	0	5	2	2	0	11	0	0	0	0	0	4	0	0	0	1	0	0	5	1	1	0
+Q1027	Emile_Rousseau	0	2	2	1	0	0	0	12	0	0	0	0	3	0	6	0	0	0	0	0	0	0	5	0	0
+Q1033	Belisaire_Marmontel	0	2	1	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0
+Q1035	Ecus_Voltaire	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1039	L'An_Mercier	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0
+Q1040	Diable_Cazotte	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Q1048	Incas_Marmontel	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1053	Liaisons_Laclos	2	4	1	0	2	1	0	0	0	2	0	0	3	0	0	0	0	0	1	0	0	2	0	0	0
+Q1054	Adele_Genlis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1057	Galatee_Florian	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Q1065	Pervertie_Retif	0	1	0	0	0	0	0	0	0	2	0	11	0	0	0	0	0	0	1	0	0	0	0	0	0
+Q1066	Caliste_Charriere	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1069	Rideau_Mirabeau	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Q1077	Amours_Couvray	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0
+Q1078	Justine_Sade	0	2	2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	4	1	0	0	0	1	0
+Q1079	Chaumiere_Bernardin	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1082	Adele_Souza	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1083	Voyage_Maistre	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0
+Q1084	Chevaliers_Genlis	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1085	Aline_Sade	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0
+Q1086	Boudoir_Sade	3	1	0	0	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0
+Q1088	Fataliste_Diderot	3	1	1	0	0	0	3	0	0	7	1	0	0	0	19	0	0	0	0	0	0	2	2	0	0
+Q1089	Religieuse_Diderot	0	1	0	0	0	0	19	0	0	8	25	0	0	0	1	0	0	0	0	0	0	1	0	0	1
+Q1090	L'Emigre_Meilhan	0	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0
+Q1091	Supplement_Diderot	0	5	1	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	1	0	0	1	1	0	0
+Q1093	L'Anti-Justine_Retif	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Q1094	Pauliska_Saint-Cyr	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1099	Claire_Cottin	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1137	Crimes_Sade	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Q1368	Cacouacs_Moreau	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Q1413	Monde_Prevost	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1426	Moraux_Marmontel	0	4	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Q1429	Julie_Rousseau	0	2	2	1	7	0	2	3	0	19	0	2	28	20	3	0	0	1	3	0	3	3	4	1	1
+Q1441	Floricourt_Dorat	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1615	Vertueuse_Retif	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1622	L'Ingenu_Voltaire	0	0	0	0	0	0	0	0	3	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Q1663	Lucile_Retif	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0
+Q1668	Princesse_Voltaire	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+Q1702	Moraux_Mercier	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1706	Fanchette_Retif	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1709	Saisons_Saint-Lambert	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1835	Menage_Retif	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1892	Jenni_Voltaire	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q1918	Perverti_Retif	0	3	0	0	0	0	0	0	0	4	0	13	0	0	0	0	0	0	3	0	0	1	0	0	0
+Q1990	Femme_Marmontel	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q2000	Vie_Retif	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q2024	Contemporaines_Retif	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q2223	Françaises_Retif	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q2240	Caliste_Charriere	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q2263	Parisiennes_Retif	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q2328	Fils_Diderot	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	5	0	0
+Q2440	Emilie_Couvray	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Q2458	Prince_Gouges	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q2495	Nuits_Retif	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Q2567	Victor_Ducray-Duminil	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Q2592	Juliette_Sade	0	1	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0
+Q2744	Coelina_Pixerecourt	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
